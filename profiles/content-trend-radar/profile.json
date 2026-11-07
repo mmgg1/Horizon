@@ -1,0 +1,16 @@
+{
+  "id": "content-trend-radar",
+  "name": "Instagram Content Trend Radar",
+  "display_names": {"fa": "رادار ترندهای تولید محتوا", "en": "Content Trend Radar"},
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {"id": "summary", "type": "section", "tools": [], "primary": true},
+      {"id": "why_now", "type": "section", "tools": [], "optional": true},
+      {"id": "content_angle", "type": "section", "tools": [], "optional": true},
+      {"id": "evidence_gaps", "type": "section", "tools": [], "optional": true}
+    ]
+  }
+}

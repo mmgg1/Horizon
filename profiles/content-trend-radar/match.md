@@ -1,0 +1,3 @@
+This profile covers public Instagram Reels and emerging social conversations from ANY topic, especially relationships, family, identity, migration, culture, technology, work, and ordinary contradictions of daily life. Do not restrict discovery to mental health. A relevant item supplies a direct Reel link, publication date and public metrics. The eventual audience is educated Persian-speaking adults, with meaningful angles for a serious clinical and psychoanalytic commentator.
+
+Do not accept promotional spam, unidentified viral claims, unsourced diagnoses, interpersonal doxxing, exploitative content, or isolated popularity as verified evidence of a growing trend. The scraper's collected results are samples, not representative platform-wide trends.
